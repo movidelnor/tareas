@@ -1,4 +1,4 @@
-![Orangescrum Logo](https://www.orangescrum.com/blog/wp-content/uploads/2022/04/Orangescrum-Logo.png)
+![Orangescrum Logo](https://webserver1.movidelnor.gob.ec/helpdesk/images/mantis_logo.png)
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/orangescrum/orangescrum/total)
@@ -13,35 +13,23 @@
 
 ## [](https://github.com/Orangescrum/orangescrum/blob/main/README.md#introduction)Introduction
 
-Orangescrum is the simple yet powerful free and open source project management software that allows teams to organize their tasks, projects and resources with real time project collaboration. Track the task progress and get notifications on their completion with the Orangescrum project management tool. Get the complete picture of all tasks and team activities in real-time. Orangescrum also offers SaaS/Cloud edition and an option to upgrade the community edition to enterprise self-hosted edition.
+Sistema que maneja proyectos, tareas, avances, reportes y notificaciones para control administrativo de la EPM
 
-Orangescrum open-source is a flexible project management web application written using CakePHP.
-
-New features, enhancements, and updates are released on a regular basis.
-
-Pull requests and bug reports are always welcome!
-
-Visit our [website](https://www.orangescrum.com/)  to get a free trial of the premium service.
-
-## [](https://github.com/Orangescrum/orangescrum/blob/main/README.md#features)Features
-
-Orangescrum provides the rich set features of Project Management.
-
-The key features are:
+Funcionalidades
 
 - [Task Management](https://www.orangescrum.com/task-management)
-	-  Task Groups 
-	- Tasks 
-	- Task Type 
-	- Task View 
-		- Calendar View 
-		- List View 
-	- Task Due Date 
-	- Task Tracking 
+	- tareas grupales 
+	- Tareas individuales
+	- Tipos de tareas
+	- Vista de tareas
+		- Vista de Calendario 
+		- Vista de Lista 
+	- Tareas por fecha de finalización 
+	- Monitoreo de tareas
 - [Time Log](https://www.orangescrum.com/time-tracking)
 - [Reports & Analytics](https://www.orangescrum.com/project-reports-analytics)
-- Email Notifications 
-- Import & Export 
+- Notificaciones por e-mail
+- Importar y exportar 
 - [Project Collaboration](https://www.orangescrum.com/agile-project-management)
 - [Default Status Workflow](https://www.orangescrum.com/custom-status-workflow)
 - [Default User Role Management](https://www.orangescrum.com/user-role-management)
